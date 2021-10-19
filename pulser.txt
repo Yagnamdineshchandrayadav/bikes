@@ -1,9 +1,12 @@
 pulser150
 pulser 180 
-pulser 220
-apachi 120
+pulser 230
 apachi 180
-apachi 150
+apachi 190
+bullet 350
+bullt 500
+bullets 650
+
 
 
 
